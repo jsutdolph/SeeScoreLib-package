@@ -18,6 +18,6 @@ let package = Package(
 		// Dependencies declare other packages that this package depends on.
 	],
 	targets: [
-		.binaryTarget(name: "SeeScoreLib", url: "https://www.icloud.com/iclouddrive/0e3khOMpsCqdfweHcLZpgnATw#SeeScoreLib", checksum: "213dbfdbd44a43ee86a19c853ef6958ff1abf87a6b6ad9bda2d683a4b6439628")
+		.binaryTarget(name: "SeeScoreLib", url: "https://www.icloud.com/iclouddrive/0e3khOMpsCqdfweHcLZpgnATw#SeeScoreLib/SeeScoreLib.xcframework.zip", checksum: "213dbfdbd44a43ee86a19c853ef6958ff1abf87a6b6ad9bda2d683a4b6439628")
 	]
 )
